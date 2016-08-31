@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/user_channel-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\UserChannelExtension\\": "src/"
+        }
+    }
+}
